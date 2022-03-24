@@ -7,3 +7,7 @@
 손쉽게 파일을 생성하는 방법은 다음과 같습니다.
 
 hexo new <template> <filename>
+
+블로그 글을 작성 후 배포는 다음 sh 을 실행하면 됩니다.
+
+sh deploy.sh
